@@ -1,0 +1,74 @@
+<object-stream>
+  <list>
+    <PremiumMember>
+      <email>homer@simpson.com</email>
+      <name>Homer Simpson</name>
+      <address>Springfield, Murica.</address>
+      <gender>M</gender>
+      <height>2.5</height>
+      <weight>55.0</weight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessments/>
+    </PremiumMember>
+    <StudentMember>
+      <email>andy@wong.com</email>
+      <name>Andy</name>
+      <address>Jimi House, LadHouse, Hotel Hell</address>
+      <gender>M</gender>
+      <height>2.6</height>
+      <weight>55.0</weight>
+      <chosenPackage>Package 3</chosenPackage>
+      <assessments>
+        <entry>
+          <date>2017-04-20 18:22:56.614 UTC</date>
+          <Assessment>
+            <weight>58.0</weight>
+            <chestMeasure>69.0</chestMeasure>
+            <thighMeasure>70.0</thighMeasure>
+            <upperArmMeasure>55.0</upperArmMeasure>
+            <waistMeasure>42.0</waistMeasure>
+            <hipMeasure>50.0</hipMeasure>
+            <comment>Nice job. Has great potential.</comment>
+            <trainer>
+              <email>marge@simpson.com</email>
+              <name>Marge Simpson</name>
+              <address>Spring Field Again in America</address>
+              <gender>F</gender>
+              <speciality>DeadLifts</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <date>2017-04-20 18:18:54.898 UTC</date>
+          <Assessment>
+            <weight>60.0</weight>
+            <chestMeasure>56.0</chestMeasure>
+            <thighMeasure>55.0</thighMeasure>
+            <upperArmMeasure>40.0</upperArmMeasure>
+            <waistMeasure>50.0</waistMeasure>
+            <hipMeasure>51.0</hipMeasure>
+            <comment></comment>
+            <trainer>
+              <email>marge@simpson.com</email>
+              <name>Marge Simpson</name>
+              <address>Spring Field Again in America</address>
+              <gender>F</gender>
+              <speciality>DeadLifts</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+      </assessments>
+      <studentId>200725</studentId>
+      <collegeName></collegeName>
+    </StudentMember>
+  </list>
+  <list>
+    <Trainer>
+      <email>marge@simpson.com</email>
+      <name>Marge Simpson</name>
+      <address>Spring Field Again in America</address>
+      <gender>F</gender>
+      <speciality>DeadLifts</speciality>
+    </Trainer>
+  </list>
+</object-stream>

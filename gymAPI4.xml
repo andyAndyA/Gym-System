@@ -1,0 +1,68 @@
+<object-stream>
+  <list>
+    <StudentMember>
+      <email>tester</email>
+      <name>faker</name>
+      <address>Clonea Ballybeg Salthill</address>
+      <gender>F</gender>
+      <height>2.99</height>
+      <weight>56.88</weight>
+      <chosenPackage>WIT</chosenPackage>
+      <assessments>
+        <entry>
+          <date>2017-04-25 20:22:34.558 UTC</date>
+          <Assessment>
+            <weight>56.8</weight>
+            <chestMeasure>50.0</chestMeasure>
+            <thighMeasure>60.0</thighMeasure>
+            <upperArmMeasure>55.0</upperArmMeasure>
+            <waistMeasure>21.5</waistMeasure>
+            <hipMeasure>55.0</hipMeasure>
+            <comment>He&apos;s okay, as a tester though - not really okay.</comment>
+            <trainer>
+              <email>anotheranothertester</email>
+              <name>Rocky</name>
+              <address>WIT address of Tourisman</address>
+              <gender>M</gender>
+              <speciality>DeadLifts</speciality>
+            </trainer>
+          </Assessment>
+        </entry>
+        <entry>
+          <date>2017-04-25 20:23:14.752 UTC</date>
+          <Assessment>
+            <weight>58.8</weight>
+            <chestMeasure>6.6</chestMeasure>
+            <thighMeasure>55.5</thighMeasure>
+            <upperArmMeasure>22.4</upperArmMeasure>
+            <waistMeasure>215.0</waistMeasure>
+            <hipMeasure>500.0</hipMeasure>
+            <comment>Wow, he&apos;s definitely using steroids. Got jacked fairly quick.</comment>
+            <trainer reference="../../../entry/Assessment/trainer"/>
+          </Assessment>
+        </entry>
+      </assessments>
+      <studentId>200762</studentId>
+      <collegeName>WIT</collegeName>
+    </StudentMember>
+    <PremiumMember>
+      <email>anothertester</email>
+      <name>Faker Lad</name>
+      <address>Testing Address</address>
+      <gender>M</gender>
+      <height>1.0</height>
+      <weight>35.0</weight>
+      <chosenPackage>Package 2</chosenPackage>
+      <assessments/>
+    </PremiumMember>
+  </list>
+  <list>
+    <Trainer>
+      <email>anotheranothertester</email>
+      <name>Rocky</name>
+      <address>WIT address of Tourisman</address>
+      <gender>M</gender>
+      <speciality>DeadLifts</speciality>
+    </Trainer>
+  </list>
+</object-stream>
