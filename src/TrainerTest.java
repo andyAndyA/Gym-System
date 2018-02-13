@@ -1,12 +1,5 @@
 import static org.junit.Assert.*;
 
-/**
- * Test for Assessment Class
- * 
- * @author Wei Kit Wong.
- *
- */
-
 import org.junit.Before;
 import org.junit.Test;
 
