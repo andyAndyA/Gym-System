@@ -4,7 +4,6 @@ This is a repo to contain my Java console-based project, a Gym System developed 
 # General
 
 ## Usage
-# Usage
 For running an Eclipse program, you can follow the tutorial [here](http://people.cs.uchicago.edu/~kaharris/10200/tutorials/eclipse/import.html). The main file to be ran is `src/Driver.java`.
 
 ## About the System
